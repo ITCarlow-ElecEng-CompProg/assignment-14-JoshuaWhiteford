@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1518010988 source:d:\programming\lab ex\lab 14\ex 14\main.cpp
+	<iostream>
+	<math.h>
+	<fstream>
+	<cstdlib>
+
